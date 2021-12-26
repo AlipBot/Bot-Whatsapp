@@ -178,6 +178,9 @@ ${simbolnya}  > [eval]
 ${simbolnya}  => [async]
 ${simbolnya}  $ [cmd termux]
 
+*Credit💳 Script*
+*https://github.com/Azex229/Bot-Whatsapp*
+
  「 *BotWhatsaap* 」
 `
 }
