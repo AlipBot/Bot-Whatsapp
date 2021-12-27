@@ -1,8 +1,30 @@
 /*
-   copy and patse Kalau kamu guna termux or replit fitur ini bisa digunakan di Convert Menu
+   copy and patse Kalau kamu guna termux or replit fitur ini bisa digunakan di Convert Menu dan Storage menu
       
+   「  *Convert Menu* 」
   ${simbolnya} ${prefix}swm [text|text2]
   ${simbolnya} ${prefix}take [text|text2]
+  
+  「  *Storage Menu* 」
+${simbolnya} ${prefix}addrespon [pesan|respon]
+${simbolnya} ${prefix}delrespon [pesan]
+${simbolnya} ${prefix}listrespon
+${simbolnya} ${prefix}listbadword
+${simbolnya} ${prefix}addbadword [text]
+${simbolnya} ${prefix}delbadword [text]
+${simbolnya} ${prefix}addvn [text]
+${simbolnya} ${prefix}listvn
+${simbolnya} ${prefix}delvn [text]
+${simbolnya} ${prefix}addimage [text]
+${simbolnya} ${prefix}listimage
+${simbolnya} ${prefix}delimage [text]
+${simbolnya} ${prefix}addvideo [text]
+${simbolnya} ${prefix}listvideo 
+${simbolnya} ${prefix}delvideo [text]
+${simbolnya} ${prefix}addsticker [text]
+${simbolnya} ${prefix}liststicker
+${simbolnya} ${prefix}delstik [text]
+
 
        tapi di HEROKU gak bisa
 */
@@ -57,26 +79,6 @@ ${simbolnya} ${prefix}vibrato [reply music]
 「  *Editor Menu* 」
 ${simbolnya} ${prefix}memegen teks atas | teks bawah
 ${simbolnya} ${prefix}stickmeme teks
-
-「  *Storage Menu* 」
-${simbolnya} ${prefix}addrespon [pesan|respon]
-${simbolnya} ${prefix}delrespon [pesan]
-${simbolnya} ${prefix}listrespon
-${simbolnya} ${prefix}listbadword
-${simbolnya} ${prefix}addbadword [text]
-${simbolnya} ${prefix}delbadword [text]
-${simbolnya} ${prefix}addvn [text]
-${simbolnya} ${prefix}listvn
-${simbolnya} ${prefix}delvn [text]
-${simbolnya} ${prefix}addimage [text]
-${simbolnya} ${prefix}listimage
-${simbolnya} ${prefix}delimage [text]
-${simbolnya} ${prefix}addvideo [text]
-${simbolnya} ${prefix}listvideo 
-${simbolnya} ${prefix}delvideo [text]
-${simbolnya} ${prefix}addsticker [text]
-${simbolnya} ${prefix}liststicker
-${simbolnya} ${prefix}delstik [text]
 
 「  *Fun Menu* 」
 ${simbolnya} ${prefix}slot
