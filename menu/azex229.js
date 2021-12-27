@@ -81,6 +81,7 @@ ${simbolnya} ${prefix}memegen teks atas | teks bawah
 ${simbolnya} ${prefix}stickmeme teks
 
 「  *Fun Menu* 」
+${simbolnya} ${prefix}tictactoe
 ${simbolnya} ${prefix}slot
 ${simbolnya} ${prefix}truth
 ${simbolnya} ${prefix}dare
