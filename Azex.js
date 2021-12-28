@@ -1,4 +1,6 @@
 /*
+        @ reamake script by Azex229
+	@ kalau mahu script asal pergi ke ZeeoneOfc
 	@ Last Update
 	@ No enc bisa buy , silahkan tes bot ini sebelum buy biar gk ribet ntr 🐦
 */
