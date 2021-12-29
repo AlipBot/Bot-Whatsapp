@@ -445,7 +445,7 @@ var waktoo = date.getHours();
 					sewabot: ` 「 *SEWA BOT* 」 \n\nBerikut list sewa bot kami
 
 •> 25k / BULAN (PREMIUM)
-Isi sendiri
+Github: https://github.com/Azex229/Bot-Whatsapp 
 
 Minat? Pm wa.me/${owner_number}`,
 					ban: 'Maaf Nomor Kamu Sudah Di Banned!',
