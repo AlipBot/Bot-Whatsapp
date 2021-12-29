@@ -53,7 +53,7 @@ script asal [`ZeeoneOfc`](https://github.com/ZeeoneOfc)<br>
 ## ``INSTALL IN TERMUX``
 
 ```
-termux-setup-storage && apt upgrade && apt update && apt install git && apt install nodejs
+termux-setup-storage
 ```
 ```
 cd /sdcard
@@ -65,7 +65,10 @@ cd (name file bot)
 rm session.json
 ```
 ```
-npm i && npm start
+apt-get update && apt-get upgrade && apt-get install nodejs && apt-get install libwebp && apt-get install ffmpeg && npm install
+```
+```
+npm start
 ```
 ``SCAN QR``
 `Kalau qr tidak keluar cuba buang session.json atau update baileys`
