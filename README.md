@@ -53,7 +53,10 @@ script asal [`ZeeoneOfc`](https://github.com/ZeeoneOfc)<br>
 ## ``INSTALL IN TERMUX``
 
 ```
-termux-setup-storage
+apt upgrade && apt update
+```
+```
+apt install git
 ```
 ```
 git clone https://github.com/Azex229/Bot-Whatsapp.git
