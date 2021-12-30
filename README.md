@@ -56,7 +56,7 @@ script asal [`ZeeoneOfc`](https://github.com/ZeeoneOfc)<br>
 termux-setup-storage
 ```
 ```
-git clone 
+git clone https://github.com/Azex229/Bot-Whatsapp.git
 ```
 ```
 rm session.json
