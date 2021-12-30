@@ -56,16 +56,13 @@ script asal [`ZeeoneOfc`](https://github.com/ZeeoneOfc)<br>
 termux-setup-storage
 ```
 ```
-cd /sdcard
-```
-```
-cd (name file bot)
+git clone 
 ```
 ```
 rm session.json
 ```
 ```
-apt-get update && apt-get upgrade && apt-get install nodejs && apt-get install libwebp && apt-get install ffmpeg && npm install
+bash install.sh
 ```
 ```
 npm start
