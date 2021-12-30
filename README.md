@@ -59,6 +59,9 @@ termux-setup-storage
 git clone https://github.com/Azex229/Bot-Whatsapp.git
 ```
 ```
+cd Bot-Whatsapp
+```
+```
 rm session.json
 ```
 ```
